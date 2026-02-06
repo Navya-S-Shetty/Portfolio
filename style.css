@@ -748,5 +748,67 @@ body{
 }
 
 
+@media (max-width: 768px) {
+
+  .section {
+    padding: 70px 6%;
+  }
+
+  .hero-card {
+    padding: 50px 24px;
+  }
+
+  .hero-name {
+    font-size: 2rem;
+  }
+
+  .hero-role {
+    font-size: 1.2rem;
+  }
+
+  .hero-desc {
+    font-size: 0.95rem;
+  }
+
+  .hero-actions {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+
+  .btn {
+    width: 100%;
+    text-align: center;
+  }
+
+  .skills-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .projects {
+    grid-template-columns: 1fr;
+  }
+
+  .education-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .experience-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .overlay-panel {
+    width: 90%;
+    padding: 30px 24px;
+  }
+
+  .contact-box {
+    padding: 50px 24px;
+  }
+}
+
+
+
+
 
 

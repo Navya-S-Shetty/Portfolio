@@ -25,7 +25,7 @@ const heroButtons = document.querySelectorAll(".hero-actions .btn");
 
 setTimeout(() => {
   heroButtons[0]?.classList.add("show");
-}, 3000);
+}, 2200);
 
 setTimeout(() => {
   heroButtons[1]?.classList.add("show");
@@ -140,5 +140,6 @@ document.addEventListener("keydown", e => {
     }
   }
 });
+
 
 

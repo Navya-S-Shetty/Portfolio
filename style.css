@@ -30,7 +30,7 @@ body{
 
 .hero-desc {
   animation: heroInSoft 1.1s ease-out forwards;
-  animation-delay: 1.5s;
+  animation-delay: 1.2s;
 }
 
 .hero-name {
@@ -746,6 +746,7 @@ body{
   color: #6b7280;
   white-space: nowrap;
 }
+
 
 
 

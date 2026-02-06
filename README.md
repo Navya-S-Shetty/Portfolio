@@ -46,7 +46,5 @@ This portfolio serves as a professional online presence to demonstrate my develo
 
 ---
 
-## 📬 Contact
-- **Email:** shettynavya328@gmail.com  
-- **GitHub:** https://github.com/Navya-S-Shetty  
-- **LinkedIn:** https://www.linkedin.com/in/navyasshetty
+## 📬 Author
+** Navya S Shetty**

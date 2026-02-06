@@ -47,4 +47,4 @@ This portfolio serves as a professional online presence to demonstrate my develo
 ---
 
 ## 📬 Author
-** Navya S Shetty**
+**Navya S Shetty**

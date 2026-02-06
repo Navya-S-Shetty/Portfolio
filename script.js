@@ -25,11 +25,11 @@ const heroButtons = document.querySelectorAll(".hero-actions .btn");
 
 setTimeout(() => {
   heroButtons[0]?.classList.add("show");
-}, 2300);
+}, 2700);
 
 setTimeout(() => {
   heroButtons[1]?.classList.add("show");
-}, 2800);
+}, 3000);
 
 function openProject(type) {
   const overlay = document.getElementById("overlay");
@@ -140,6 +140,7 @@ document.addEventListener("keydown", e => {
     }
   }
 });
+
 
 
 

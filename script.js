@@ -29,7 +29,7 @@ setTimeout(() => {
 
 setTimeout(() => {
   heroButtons[1]?.classList.add("show");
-}, 3100);
+}, 3200);
 
 function openProject(type) {
   const overlay = document.getElementById("overlay");
@@ -140,6 +140,7 @@ document.addEventListener("keydown", e => {
     }
   }
 });
+
 
 
 

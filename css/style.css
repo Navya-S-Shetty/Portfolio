@@ -55,6 +55,15 @@ body{
   background:radial-gradient(circle at top,#dbeafe,#f7fbff);
 }
 
+@media(max-width:768px){
+
+  .hero{
+    min-height:auto;
+    padding:40px 20px 60px;
+  }
+
+}
+
 .hero-card{
   background:rgba(255,255,255,0.75);
   backdrop-filter:blur(18px);
